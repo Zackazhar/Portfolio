@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
-//import pdf from "../../Assets/../Assets/zackazhar_Behera-BIT_MESRA.pdf";
+import pdf from "../../Assets/../Assets/Azfar_Portfolio.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
@@ -14,7 +14,7 @@ function ResumeNew() {
   useEffect(() => {
     setWidth(window.innerWidth);
   }, []);
-/*
+
   return (
     <div>
       <Container fluid className="resume-section">
@@ -50,7 +50,7 @@ function ResumeNew() {
         </Row>
       </Container>
     </div>
-  );*/
+  );
 }
 
 export default ResumeNew;

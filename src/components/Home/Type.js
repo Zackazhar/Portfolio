@@ -8,7 +8,8 @@ function Type() {
         strings: [
           "Game Developer",
           "Game Level Designer",
-          "2D Level Designer",
+          "Unity Developer",
+          "2D Game Level Designer"
         ],
         autoStart: true,
         loop: true,
