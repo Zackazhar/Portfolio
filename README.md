@@ -13,21 +13,21 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/zackazhar4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/zackazhar4419/Portfolio?color=red&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/zackazhar/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/zackazhar/Portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/zackazhar4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/zackazhar/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/zackazhar4419/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/zackazhar/Portfolio/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [zackazhar4419](https://github.com/zackazhar4419/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [zackazhar](https://github.com/zackazhar/Portfolio). Thanks!
 
 ## Built With
 
@@ -73,4 +73,4 @@ You will find all the components used and you can edit your information accordin
 
 Give a ⭐ if you like this website!
 
-<a href="https://www.buymeacoffee.com/zackazhar4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+<a href="https://www.buymeacoffee.com/zackazhar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
