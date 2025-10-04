@@ -9,12 +9,11 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Azfar </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
+            from <span className="purple"> Johor.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            I am currently unemployed.. sadge.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            I have completed BSC Hons in Computer Games Development in APU.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -24,15 +23,15 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Watching Movies
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Football/Futsal
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Developing video games is my calling"{" "}
           </p>
           <footer className="blockquote-footer">zackazhar</footer>
         </blockquote>

@@ -2,7 +2,8 @@ import React from "react";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 import { CgWebsite } from "react-icons/cg";
-import { BsGithub } from "react-icons/bs";
+import { CgYoutube } from "react-icons/cg";
+import { CgTrophy } from "react-icons/cg";
 
 function ProjectCards(props) {
   return (
@@ -13,9 +14,9 @@ function ProjectCards(props) {
         <Card.Text style={{ textAlign: "justify" }}>
           {props.description}
         </Card.Text>
-        <Button variant="primary" href={props.ghLink} target="_blank">
-          <BsGithub /> &nbsp;
-          {props.isBlog ? "Blog" : "GitHub"}
+        <Button variant="primary" href={props.itchLink} target="_blank">
+          <CgTrophy /> &nbsp;
+          {props.isBlog ? "Blog" : "Itch.io"}
         </Button>
         {"\n"}
         {"\n"}
@@ -31,6 +32,18 @@ function ProjectCards(props) {
           >
             <CgWebsite /> &nbsp;
             {"Demo"}
+          </Button>
+        )}
+
+        {!props.isBlog && props.youtubeLink && (
+          <Button
+            variant="primary"
+            href={props.youtubeLink}
+            target="_blank"
+            style={{ marginLeft: "10px" }}
+          >
+            <CgYoutube /> &nbsp;
+            {"Youtube"}
           </Button>
         )}
       </Card.Body>

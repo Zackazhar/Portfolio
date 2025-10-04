@@ -19,12 +19,11 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I fell in love with game developing and learnt a bunch of cool techniques/skills especially in Unity.
               <br />
-              <br />I am fluent in classics like
+              <br />I am proficient in
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> Unity and Smile Game Builder. </b>
               </i>
               <br />
               <br />
