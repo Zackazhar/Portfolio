@@ -45,7 +45,7 @@ function Projects() {
               isBlog={false}
               title="Let Me Cook"
               description="A topdown cooking game inspired by Overcooked made in Unity. Features variety of recipes to complete within the time limit. Playable in PC"
-              itchLink="https://github.com/zackazhar/Editor.io"
+              itchLink= "https://zack77.itch.io/let-me-cook"
             />
           </Col>
 

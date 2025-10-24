@@ -11,9 +11,10 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Azfar </span>
             from <span className="purple"> Johor.</span>
             <br />
-            I am currently unemployed.. sadge.
+            Currently looking for a position in the gaming industry.
             <br />
-            I have completed BSC Hons in Computer Games Development in APU.
+            I have just completed BSC Hons in Computer Games Development in APU.
+            <span className="purple"> (September 2025).</span>
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -31,13 +32,13 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Developing video games is my calling"{" "}
+            "Gaming is a blessing"{" "}
           </p>
           <footer className="blockquote-footer">zackazhar</footer>
         </blockquote>
       </Card.Body>
     </Card>
   );
-}
+}   
 
 export default AboutCard;
