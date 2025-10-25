@@ -66,17 +66,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/zackazhar"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/zackazhar/"
+                  href="https://www.linkedin.com/in/azfar-syahmi-b2a17528a/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -86,7 +76,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/zackazhar"
+                  href="https://www.instagram.com/azfar.syah"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
