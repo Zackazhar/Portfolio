@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import virus from "../../Assets/virus3.jpg";
 import kullervo from "../../Assets/kullervo.png";
 import letmecook from "../../Assets/letmecook.png";
+import themepark from "../../Assets/themep.png";
 
 function Projects() {
   return (
@@ -49,18 +50,18 @@ function Projects() {
             />
           </Col>
 
-          {/*<Col md={4} className="project-card">
+          {<Col md={4} className="project-card">
             <ProjectCard
-              //imgPath={leaf}
+              imgPath={themepark}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/zackazhar/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              title="Theme Park UI Prototype"
+              description="A prototype of a theme park mobile app UI made using Figma. The design includes features such as ticket booking, park navigation, ride information, and notification system."
+              figmaLink="https://www.figma.com/design/V4J14XJTP8G43NI6yUPi7J/Theme-Park-Mobile-App--Community-?node-id=0-1&t=1TWwT8f4BfJq0Ix5-1"
+              demoLink="https://www.figma.com/proto/V4J14XJTP8G43NI6yUPi7J/Theme-Park-Mobile-App--Community-?page-id=0%3A1&node-id=258-560&p=f&viewport=207%2C452%2C0.09&t=HO39HeLYomqhCMda-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=258%3A74"
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          /*<Col md={4} className="project-card">
             <ProjectCard
               //imgPath={suicide}
               isBlog={false}

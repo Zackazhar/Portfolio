@@ -4,6 +4,7 @@ import Button from "react-bootstrap/Button";
 import { CgWebsite } from "react-icons/cg";
 import { CgYoutube } from "react-icons/cg";
 import { CgTrophy } from "react-icons/cg";
+import { CgFigma } from "react-icons/cg";
 
 function ProjectCards(props) {
   return (
@@ -44,6 +45,18 @@ function ProjectCards(props) {
           >
             <CgYoutube /> &nbsp;
             {"Youtube"}
+          </Button>
+        )}
+
+        {!props.isBlog && props.figmaLink && (
+          <Button
+            variant="primary"
+            href={props.figmaLink}
+            target="_blank"
+            style={{ marginLeft: "10px" }}
+          >
+            <CgFigma /> &nbsp;
+            {"Figma view"}
           </Button>
         )}
       </Card.Body>
