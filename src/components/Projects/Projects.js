@@ -6,6 +6,7 @@ import virus from "../../Assets/virus3.jpg";
 import kullervo from "../../Assets/kullervo.png";
 import letmecook from "../../Assets/letmecook.png";
 import themepark from "../../Assets/themep.png";
+import render from "../../Assets/3D_render.png";
 
 function Projects() {
   return (
@@ -50,7 +51,7 @@ function Projects() {
             />
           </Col>
 
-          {<Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={themepark}
               isBlog={false}
@@ -61,18 +62,17 @@ function Projects() {
             />
           </Col>
 
-          /*<Col md={4} className="project-card">
+          {<Col md={4} className="project-card">
             <ProjectCard
-              //imgPath={suicide}
+              imgPath={render}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/zackazhar/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              title="3D Soulslike Project"
+              description="3D animation render made using Unreal Engine 5. All the models and effects are created from scratch using Blender, Substance Painter and Zbrush."
+              youtubeLink="https://youtu.be/lDE8CPOCplo"
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          /*<Col md={4} className="project-card">
             <ProjectCard
               //imgPath={emotion}
               isBlog={false}
