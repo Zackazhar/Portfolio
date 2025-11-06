@@ -37,7 +37,15 @@ function Home2() {
               games.
               <br />
               <br />
-              Whenever possible, I also apply my passion of designing game characters and levels to brainstorm the ideas for good gameplay.
+              Whenever possible, I also apply my passion of &nbsp;
+              <i>
+                <b className="purple"> Repairing Computers </b>
+                and{" "}
+                <b className="purple">
+                  Building PCs .
+                </b>
+              </i>
+              to improve my skills and gain experience of repairing electronics.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

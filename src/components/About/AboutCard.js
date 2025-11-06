@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Azfar </span>
             from <span className="purple"> Johor.</span>
             <br />
-            Currently looking for a position in the gaming industry.
+            Currently looking for a position in the Computer/IT industry.
             <br />
             I have just completed BSC Hons in Computer Games Development in APU.
             <span className="purple"> (September 2025).</span>
