@@ -45,7 +45,7 @@ function Home2() {
                   Building PCs .
                 </b>
               </i>
-              to improve my skills and gain experience of repairing electronics.
+              to improve my skills and gain experience on repairing electronics.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
